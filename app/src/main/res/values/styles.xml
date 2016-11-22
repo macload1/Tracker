@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="access_token" translatable="false">pk.eyJ1IjoibWFjbG9hZDEiLCJhIjoiY2l2dDhudGNwMDA0MTJ6bXcyZ2duc2F0diJ9.k16O8qV4U_sJQiuoNVwZZA</string>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
