@@ -38,7 +38,7 @@ public class TrackerActivity extends AppCompatActivity {
                         .title("Disneyland Paris")
                         .snippet("Hello Mickey!"));*/
                 mapboxMap.addMarker(new MarkerOptions()
-                        .position(new LatLng(50.597557, 5.398630))
+                        .position(new LatLng(50.596117, 5.403270))
                         .title("Home")
                         .snippet("Hello Kids!"));
             }
